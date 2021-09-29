@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
+	cout << "Calculator by Zildjian Quiaoit" << endl << endl;
+	
     int firstNumber, secondNumber, sumOfTwoNumbers, diffOfTwoNumbers, prodOfTwoNumbers, quotOfTwoNumbers, modOfTwoNumbers;
     
     cout << "Enter first number: ";
